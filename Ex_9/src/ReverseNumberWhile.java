@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ReverseNumberWhile {
+class ReverseNumberWhile {
 
 	public static void main(String[] args) {
 		int num=0;
